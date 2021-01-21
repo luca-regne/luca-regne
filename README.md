@@ -22,6 +22,6 @@ My name is Luca, but I'm known as ``r3gn3`` in Cyber Sec Community.
 </br>
 <sup>This image reference my profile in 12/12/2020, to view my actually stats click <a href=https://tryhackme.com/p/R3gn3>here</a></sub>
 ### General
-![Luca's github stats](https://github-readme-stats.vercel.app/api?username=LucaRibeiro&show_icons=true&theme=synthwave)
+![Luca's github stats](https://github-readme-stats.vercel.app/api?username=r3gn3&show_icons=true&theme=synthwave)
 ### Most Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucaRibeiro&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r3gn3&layout=compact)
