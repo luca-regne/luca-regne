@@ -6,6 +6,7 @@ My name is Luca, but I'm known as ``r3gn3`` in Cyber Sec Community.
 - CTF Player
 - Musician in free time
 
+<!--
 ## Social Network
 <div style="justify-content:center">
   <a href=https://www.linkedin.com/in/luca-ribeiro>
