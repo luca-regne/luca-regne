@@ -19,7 +19,6 @@ My name is Luca, but I'm known as ``r3gn3`` in Cyber Sec Community.
     <img src=https://user-images.githubusercontent.com/45595378/102016940-5e0d5500-3d42-11eb-843b-abaa7cf40beb.png widht=80px height=80px>
    </a>
 </div>
---!>
 
 ## TryHackMe Profile
 ![badge](https://tryhackme.com/badge/87103)
