@@ -9,17 +9,6 @@ My name is Luca, but I'm known as ``r3gn3`` in Cyber Sec Community.
 - Bug Hunter :moneybag:
 - Musician in free time :guitar: :musical_keyboard:
 
-<!--
-## Social Network
-<div style="justify-content:center">
-  <a href=https://www.linkedin.com/in/luca-ribeiro>
-    <img src=https://user-images.githubusercontent.com/45595378/102016978-a88ed180-3d42-11eb-9d8f-8984c9e308e7.png widht=80px height=80px>
-   </a>
-   <a href=https://medium.com/@r3gn3>
-    <img src=https://user-images.githubusercontent.com/45595378/102016940-5e0d5500-3d42-11eb-843b-abaa7cf40beb.png widht=80px height=80px>
-   </a>
-</div>
-
 ## TryHackMe Profile
 ![badge](https://tryhackme.com/badge/87103)
 
