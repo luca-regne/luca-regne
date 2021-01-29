@@ -9,10 +9,6 @@ My name is Luca, but I'm known as ``r3gn3`` in Cyber Sec Community.
 - Bug Hunter :moneybag:
 - Musician in free time :guitar: :musical_keyboard:
 
-## TryHackMe Profile
-![THM Badge](https://tryhackme.com/badge/87103)
-
 ## Git Stats
 ![Luca's github stats](https://github-readme-stats.vercel.app/api?username=r3gn3&show_icons=true&theme=synthwave)
-## Most Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r3gn3&layout=compact)
