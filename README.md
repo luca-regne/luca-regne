@@ -11,4 +11,3 @@ My name is Luca, but I'm known as ``r3gn3`` in Cyber Sec Community.
 
 ## Git Stats
 ![Luca's github stats](https://github-readme-stats.vercel.app/api?username=r3gn3&show_icons=true&theme=synthwave)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r3gn3&layout=compact)
