@@ -10,4 +10,4 @@ My name is Luca, but I'm known as ``r3gn3`` in Cyber Sec Community.
 - Musician in free time :guitar: :musical_keyboard:
 
 ## Git Stats
-![Luca's github stats](https://github-readme-stats.vercel.app/api?username=r3gn3&show_icons=true&theme=synthwave)
+![Luca's github stats](https://github-readme-stats.vercel.app/api?username=LucaRibeiro&show_icons=true&theme=synthwave)
