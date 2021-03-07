@@ -20,8 +20,6 @@ My name is Luca, but I'm known as ``r3gn3`` in Cyber Sec Community.
 </div>
 
 ## Check this projects
+![TryHackMe WriteUps](https://github-readme-stats.vercel.app/api/pin/?username=LucaRibeiro&repo=tryhackme-writeups&hide_border=true&theme=synthwave)
 
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=LucaRibeiro&repo=tryhackme-writeups&hide_border=true&theme=synthwave" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucaRibeiro&repo=Pentools&hide_border=true&theme=synthwave"/>
-</div>
+![Pentools](https://github-readme-stats.vercel.app/api/pin/?username=LucaRibeiro&repo=Pentools&hide_border=true&theme=synthwave)
