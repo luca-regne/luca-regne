@@ -1,5 +1,5 @@
 ## Hello World :tada:
-My name is Luca, but I'm known as ``R3GN3`` in Cyber Sec Community.
+My name is Luca, but I'm known as ``R3GN3``!
 
 <a href="https://lucaribeiro.me/" target="_blank">
   <img src=https://img.shields.io/badge/-lucaribeiro.me-212121?&?style=plastic&logo=react&logoColor=white alt=site />
@@ -9,7 +9,7 @@ My name is Luca, but I'm known as ``R3GN3`` in Cyber Sec Community.
 </a>    
 
 ## About Me
-- Security Analyst & Pentester :computer: 
+- Security Engineer :computer: 
 - CTF Player :trophy: :video_game:
 - Bug Hunter :moneybag:
 
