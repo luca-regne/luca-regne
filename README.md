@@ -15,6 +15,6 @@ My name is Luca, but I'm known as ``R3GN3``!
 
 ## Stats
 <div>
-  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=LucaRibeiro&show_icons=true&theme=synthwave&hide_border=true" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaRibeiro&layout=compact&hide=c&theme=synthwave&hide_border=true"/>
+  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=lucaregne&show_icons=true&theme=synthwave&hide_border=true" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaregne&layout=compact&hide=c&theme=synthwave&hide_border=true"/>
 </div>
