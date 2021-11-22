@@ -1,5 +1,5 @@
 ## Hello World :tada:
-My name is Luca, but I'm known as ``R3GN3``!
+My name is Luca, but I'm known as ``R3GN3`` in cybersecurity community. 
 
 <a href="https://lucaribeiro.me/" target="_blank">
   <img src=https://img.shields.io/badge/-lucaribeiro.me-212121?&?style=plastic&logo=react&logoColor=white alt=site />
