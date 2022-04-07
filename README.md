@@ -1,9 +1,6 @@
 ## hello world :tada:
 my name is Luca, but i'm known as ``regne`` in cybersecurity community. 
 
-<a href="https://lucaribeiro.me/" target="_blank">
-  <img src=https://img.shields.io/badge/-lucaribeiro.me-212121?&?style=plastic&logo=react&logoColor=white alt=site />
-</a>
 <a href="https://linkedin.com/in/luca-ribeiro" target="_blank">
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=plastic&logo=linkedin&logoColor=white alt=linkedin  />
 </a>    
